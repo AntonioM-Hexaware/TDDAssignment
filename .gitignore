@@ -1,0 +1,45 @@
+# Compiled class file
+*.class
+
+$ Log file
+*.log
+
+# BlujeJ files
+*.ctxt
+
+# Mobile Tools for Java
+.mtj.tmp/
+
+# Package files 
+
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+
+.project
+.classpath
+.settings/
+.metadata/
+RemoteSystemTempFiles/
+/bin/
+
+.idea/
+*.iml
+\.vs/
+.vs/
+
+test-output/
+
+src/Test/Test/testng.xml
+
+out/
+*.orig
+classes
+Error_Report.html
+/target/
